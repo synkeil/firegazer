@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "watch": true,
+    "outDir": "./dist/js",
+    "rootDir": "./src/typescript",
+    "lib":["dom","es2017"]
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+]
+}

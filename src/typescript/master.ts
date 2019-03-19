@@ -1,0 +1,1 @@
+const main = (text:string) => { return text }
